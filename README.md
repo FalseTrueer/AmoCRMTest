@@ -62,11 +62,11 @@ cd amocrm-deals-viewer
 npm install
 ```
 
-### 3. Создай файл `.env` со своим ACCESS_TOKEN
+### 3. Создай файл `.env` со своим ACCESS_TOKEN(Этот шаг пропускается, так как .env есть в проекте)
 
 ```env
-ACCESS_TOKEN=your_amocrm_access_token_here
-PORT=3000
+ACCESS_TOKEN=...
+PORT=...
 ```
 
 > ⚠️⚠️⚠️ По ТЗ ACCESS_TOKEN будет публично показан
